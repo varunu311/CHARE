@@ -1,4 +1,4 @@
-# autodonate to a charity when purchase is made 
+# Autodonate To A Charity When Purchase Is Made 
 
 A new Flutter project.
 
